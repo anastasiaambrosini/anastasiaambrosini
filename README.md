@@ -21,13 +21,13 @@
   
   
  
- ### :mailbox:How to connect with me:<div id="badges">
+ ### :mailbox:<em><strong>How to connect with me:</strong></em><div id="badges">
   
   <a href="https://www.linkedin.com/in/anastasialitvin/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  ### :woman_technologist: About me:
+  ### :woman_technologist: <em><strong>About me:</strong></em>
   
   :arrow_forward: I enjoy working with different programmimg languages and create automation test scripts.<br>
   :arrow_forward: I never stop learning. Always try to stay up to date with new testing tools and test strategies.</a>
